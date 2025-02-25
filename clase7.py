@@ -19,3 +19,4 @@ Imprime mensajes dependiendo de las verificaciones.
 # Respuesta Yanet:
 
 # Respuesta Elvia:
+reprobe = "con cero"
